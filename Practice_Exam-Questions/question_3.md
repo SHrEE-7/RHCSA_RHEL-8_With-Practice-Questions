@@ -2,7 +2,7 @@
 ### Answer :-
 
 ```
-[root@localhost ~]# crontab -eu Eric
+[root@localhost ~]# crontab -eu Krish
 
 10 14 * * *logger"Target EX200"
 
