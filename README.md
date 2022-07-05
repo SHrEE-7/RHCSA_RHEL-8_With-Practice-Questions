@@ -18,5 +18,7 @@
 | **8**  | [<li>Tunning system performance</li>](RHCSA_Content/tunning_system_performance.md)   |
 | **9**  | [<li>Yum Configuration</li>](RHCSA_Content/yum.md)                                   |
 | **10** | [<li>Resetting Root Password</li>](RHCSA_Content/resetting_root_password.md)         |
+| **11** | [<li>Network configuration</li>](RHCSA_Content/Networking.md)                        |
+| **12** | [<li>Hostname configuration</li>](RHCSA_Content/hostname.md)                         |
 
 ### Contributions are welcome..! Feel free to send pull request.
