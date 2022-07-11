@@ -1,4 +1,4 @@
-### **Q. Intrrupt the boot process and reset the root password change it to "redhat" to gain access to system.**
+### **Q. Interrupt the boot process and reset the root password change it to "root" to gain access to system.**
 ### Answer: -
 
 To access that root shell, use following steps.
