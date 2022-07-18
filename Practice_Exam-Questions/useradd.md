@@ -8,3 +8,6 @@
 changing password for user fred
 New password:iamredhatman
 Retype new password:iamredhatman
+
+passwd: all authentication token updated successfully.
+```
