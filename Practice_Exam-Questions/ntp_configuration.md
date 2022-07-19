@@ -16,4 +16,6 @@ add --> server classroom.example.com iburst
 save changes
 
 [root@localhost ~]# systemctl restart chronyd
+
+[root@localhost ~]# timedatectl (check whether ntp service active or not)
 ```
