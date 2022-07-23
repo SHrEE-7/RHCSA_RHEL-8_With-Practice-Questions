@@ -4,7 +4,7 @@
 ## <center>🔥**RHCSA Study Points and Past Exam-Questions**🔥</center> 
 
 ### This repository is collection of important Study points and commonly asked Exam-Questions. I have gone through courses like RH124, RH134 and RHCSA Rapid Track. I have studied every point throughly and noted down important points which helps to boost linux skills, knowledge. 
-### Past Exam-Question somehow gives idea about the exam and boosts confidence after solving some questions.
+### Practice Exam-Question somehow gives idea about the exam and boosts confidence after solving some questions.
 
 | Index  | Topic                                                                                |
 | ------ | ------------------------------------------------------------------------------------ |
