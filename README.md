@@ -1,5 +1,5 @@
 
-<img src="/image/Linux.PNG" width="1000" height="450">
+<img src="/image/Linux.png" width="1000" height="450">
 
 ## <center>🔥**RHCSA Study Points and Past Exam-Questions**🔥</center> 
 
